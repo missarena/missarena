@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Sadiya
 - 👀 I’m interested in Web Development and many related technologies
 - 🌱 I’m currently learning javaScript,react and node.
-- 
-  
 - 📫 How to reach me
-- Linkedin:https://www.linkedin.com/in/sadiya-khan-2a3285291
+  Linkedin:https://www.linkedin.com/in/sadiya-khan-2a3285291
   
 
 
