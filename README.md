@@ -1,6 +1,6 @@
 # Hi there, I'm Sadiya! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in   web development and  machine learning. Here, you'll find a collection of my projects and contributions.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in   web development in MERN and JAVA. Here, you'll find a collection of my projects and contributions.
 
 ## About Me
 
@@ -25,7 +25,7 @@ Here are a few projects I'm proud of:
 
 - WanderNest(link-to-project): An airbnb type website.
 - Backened-Projects(link-to-project): Three projects describing Backened Aand Restful APIs.
-- Portfolio Website(link-to-project): My Portfolio.
+- Weather Website(link-to-project): Using Material UI and React-js.
 
 ## GitHub Stats
 
