@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm a passionate **Java Developer** and **Full Stack Engin
 A scalable microservices-based system built with **Spring Boot, Spring Cloud, Kafka, and Keycloak**.  
 Includes **AI-powered recommendations**, secure authentication, and **React frontend** integration.
 
-### 🤖 [AI-Powered Email Writer Assistant](link-to-project)
+### 🤖 [AI-Powered Email Writer Assistant](https://github.com/missarena/-AI--powered-Email-assistant.git)
 An intelligent email assistant built with **Spring Boot**, **React (Vite)**, and **Google Gemini API**.  
 Generates professional replies directly inside Gmail via a **Chrome Extension**.
 
