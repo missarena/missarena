@@ -40,7 +40,7 @@ Includes **AI-powered recommendations**, secure authentication, and **React fron
 An intelligent email assistant built with **Spring Boot**, **React (Vite)**, and **Google Gemini API**.  
 Generates professional replies directly inside Gmail via a **Chrome Extension**.
 
-### 🏡 [WanderNest – Airbnb Clone (MERN Stack)](link-to-project)
+### 🏡 [WanderNest – Airbnb Clone (MERN Stack)](https://github.com/missarena/WanderNest.git)
 A full-stack rental platform built using the **MERN stack**, allowing users to list, review, and book properties.  
 Implements **secure authentication**, **Cloudinary image uploads**, and follows the **MVC pattern**.
 
