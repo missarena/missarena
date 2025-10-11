@@ -48,7 +48,13 @@ Implements **secure authentication**, **Cloudinary image uploads**, and follows 
 A deep learning project using **PyTorch**, **EfficientNet**, and **Transformer-based hybrid models** to detect diabetic retinopathy severity from retinal images.  
 Achieved **86% validation accuracy** on the **APTOS 2019 dataset**.
 
----
+# 🧩 Problem Solving  
+
+I actively practice **Data Structures and Algorithms** to strengthen my programming logic and backend development skills.  
+
+- 💡 Check out my LeetCode profile: [LeetCode – Sadiya Khan](https://leetcode.com/missarena) 
+- Solved 200+ problems using **Java** across topics like Arrays, Trees, and Dynamic Programming.  
+
 
 ## 📊 GitHub Stats  
 
@@ -60,6 +66,7 @@ Achieved **86% validation accuracy** on the **APTOS 2019 dataset**.
 ## 🌐 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sadiya-khan-2a3285291)  
+- 🧩 [Leetcode](https://leetcode.com/missarena) 
 - 📨 Open to collaborations, internships, and Java backend opportunities!  
 
 ---
