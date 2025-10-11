@@ -44,7 +44,7 @@ Generates professional replies directly inside Gmail via a **Chrome Extension**.
 A full-stack rental platform built using the **MERN stack**, allowing users to list, review, and book properties.  
 Implements **secure authentication**, **Cloudinary image uploads**, and follows the **MVC pattern**.
 
-### 🧬 [Diabetic Retinopathy Detection (Deep Learning)](link-to-project)
+### 🧬 [Diabetic Retinopathy Detection (Deep Learning)](https://github.com/missarena/Heathcare-Project.git)
 A deep learning project using **PyTorch**, **EfficientNet**, and **Transformer-based hybrid models** to detect diabetic retinopathy severity from retinal images.  
 Achieved **86% validation accuracy** on the **APTOS 2019 dataset**.
 
