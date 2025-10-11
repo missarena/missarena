@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a passionate **Java Developer** and **Full Stack Engin
 
 ## 🚀 Featured Projects  
 
-### 🏗️ [Full Stack Microservices Project (Spring Boot + React)](link-to-project)
+### 🏗️ [Full Stack Microservices Project (Spring Boot + React)](https://github.com/missarena/A-fully-featured-fitness-app-on-Microservice-Architecture.git)
 A scalable microservices-based system built with **Spring Boot, Spring Cloud, Kafka, and Keycloak**.  
 Includes **AI-powered recommendations**, secure authentication, and **React frontend** integration.
 
