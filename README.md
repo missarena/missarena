@@ -1,6 +1,6 @@
 # Hi there, I'm Sadiya! 👋  
 
-Welcome to my GitHub! I'm a passionate **Java Developer** and **Full Stack Engineer** who loves building scalable backend systems, AI-integrated applications, and impactful web projects. I enjoy exploring technologies like **Spring Boot, React, Microservices, and Machine Learning**.
+Welcome to my GitHub! I'm a passionate **Java Developer** and **Full Stack Developer** who loves building scalable backend systems, AI-integrated applications, and impactful web projects. I enjoy exploring technologies like **Spring Boot, React, Microservices, and Machine Learning**.
 
 ---
 
