@@ -52,6 +52,7 @@ Achieved **86% validation accuracy** on the **APTOS 2019 dataset**.
 
 A full-stack **Spring Boot** web application designed as a scalable AI-powered learning platform.  
 Built with **Spring Security**, **Role-Based Access Control (ADMIN / USER)**, **Thymeleaf**, and **MySQL** for secure and structured data management.
+
 ---
 
 # 🧩 Problem Solving  
