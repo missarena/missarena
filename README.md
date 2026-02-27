@@ -48,6 +48,12 @@ Implements **secure authentication**, **Cloudinary image uploads**, and follows 
 A deep learning project using **PyTorch**, **EfficientNet**, and **Transformer-based hybrid models** to detect diabetic retinopathy severity from retinal images.  
 Achieved **86% validation accuracy** on the **APTOS 2019 dataset**.
 
+### 🤖 [AI Powered Study Assistant](https://github.com/missarena/AI-Powered-Study-Assistant.git)
+
+A full-stack **Spring Boot** web application designed as a scalable AI-powered learning platform.  
+Built with **Spring Security**, **Role-Based Access Control (ADMIN / USER)**, **Thymeleaf**, and **MySQL** for secure and structured data management.
+---
+
 # 🧩 Problem Solving  
 
 I actively practice **Data Structures and Algorithms** to strengthen my programming logic and backend development skills.  
