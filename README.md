@@ -61,8 +61,6 @@ I enjoy designing REST APIs, working with databases, implementing authentication
 
 ## 🔗 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- Portfolio: [Your Portfolio URL]
-- Resume: [Your Resume URL]
+- LinkedIn: https://www.linkedin.com/in/sadiyakhan2179/
 
 ⭐ Always learning, building and improving.
